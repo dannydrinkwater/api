@@ -1,0 +1,653 @@
+{
+  "searchfiltergroups": [
+    {
+      "groupshortcode": "destinations",
+      "name": "Destinations",
+      "defaultexpanded": true,
+      "filters": [
+        {
+          "id": "wr_cs_1",
+          "name": "Northern France",
+          "defaultvisible": true,
+          "parcs": "BN014,BN015,BN011,BN013,BS019,BS018,BS017,BS015,BS062,BS014,BS012,BS021,BS023,BS022,NR011,NR013,NR014,NR038,PA025,PA012,PC011,PC012",
+          "filters": [
+            {
+              "id": "3498",
+              "name": "Picardy",
+              "defaultvisible": true,
+              "parcs": "PC011,PC012",
+              "parent": "wr_cs_1"
+            },
+            {
+              "id": "3499",
+              "name": "Normandy",
+              "defaultvisible": true,
+              "parcs": "NR011,NR013,NR014,NR038",
+              "parent": "wr_cs_1"
+            },
+            {
+              "id": "3500",
+              "name": "Paris",
+              "defaultvisible": true,
+              "parcs": "PA025,PA012",
+              "parent": "wr_cs_1"
+            },
+            {
+              "id": "3501",
+              "name": "Brittany North",
+              "defaultvisible": true,
+              "parcs": "BN014,BN015,BN011,BN013",
+              "parent": "wr_cs_1"
+            },
+            {
+              "id": "3502",
+              "name": "Brittany South",
+              "defaultvisible": true,
+              "parcs": "BS019,BS018,BS017,BS015,BS062,BS014,BS012,BS021,BS023,BS022",
+              "parent": "wr_cs_1"
+            }
+          ]
+        },
+        {
+          "id": "wr_cs_2",
+          "name": "Central France",
+          "defaultvisible": true,
+          "parcs": "AL013,BU011,JU013,JU012,AL014,AL016,AL011,DR011,DR012,DR013,DR015,DR016,DR017,DR018,DR019,DR029,DR040,DR046,DR048,LR013,LR016,LR015,LR014,VN011,VN024,VN012,VN014,VN016,VN017,VS011,VS021,VS017,VS013,VS012,AT013,AT012,VS014",
+          "filters": [
+            {
+              "id": "3505",
+              "name": "Dordogne",
+              "defaultvisible": true,
+              "parcs": "DR011,DR012,DR013,DR015,DR016,DR017,DR018,DR019,DR029,DR040,DR046,DR048",
+              "parent": "wr_cs_2"
+            },
+            {
+              "id": "3507",
+              "name": "Burgundy, Jura and The Alps",
+              "defaultvisible": true,
+              "parcs": "AL013,BU011,JU013,JU012,AL014,AL016,AL011",
+              "parent": "wr_cs_2"
+            },
+            {
+              "id": "3521",
+              "name": "Vendee North",
+              "defaultvisible": true,
+              "parcs": "VN011,VN024,VN012,VN014,VN016,VN017",
+              "parent": "wr_cs_2"
+            },
+            {
+              "id": "3503",
+              "name": "Vendee South & Il de Re",
+              "defaultvisible": true,
+              "parcs": "VS011,VS021,VS017,VS013,VS012,AT013,AT012,VS014",
+              "parent": "wr_cs_2"
+            },
+            {
+              "id": "3504",
+              "name": "Loire",
+              "defaultvisible": true,
+              "parcs": "LR013,LR016,LR015,LR014",
+              "parent": "wr_cs_2"
+            }
+          ]
+        },
+        {
+          "id": "wr_cs_3",
+          "name": "Southern France",
+          "defaultvisible": true,
+          "parcs": "MC011,MC013,MC016,MC017,MC033,MC040,CR011,CR021,GR014,GR032,GA011,GR026,GR013,GA013,GA014,GA040,GA015,GR037,PY011,RV082,RV053,RV015,RV016,RV026,RV078,RV080,RV081,RV021,RV022,RV023,RV014,RV013,RV025,RV062,HP011,HP012,HP013,HP014,WM045,WM029,WM078,WM036,WM084,WM085,WM020,WM080,WM022,WM023,WM032,WM094,WM019,WM087,WM011,WM064,WM015,WM016,WM034,WM013,WM014,WM070,WM018,WM017",
+          "filters": [
+            {
+              "id": "3508",
+              "name": "Gascony, Gironde & The Pyrenees",
+              "defaultvisible": true,
+              "parcs": "GR014,GR032,GA011,GR026,GR013,GA013,GA014,GA040,GA015,GR037,PY011",
+              "parent": "wr_cs_3"
+            },
+            {
+              "id": "3509",
+              "name": "Languedoc",
+              "defaultvisible": true,
+              "parcs": "WM045,WM029,WM078,WM036,WM084,WM085,WM020,WM080,WM022,WM023,WM032",
+              "parent": "wr_cs_3"
+            },
+            {
+              "id": "3734",
+              "name": "Roussillon",
+              "defaultvisible": true,
+              "parcs": "WM094,WM019,WM087,WM011,WM064,WM015,WM016,WM034,WM013,WM014,WM070,WM018,WM017",
+              "parent": "wr_cs_3"
+            },
+            {
+              "id": "3506",
+              "name": "Ardeche & Auvergne",
+              "defaultvisible": true,
+              "parcs": "MC011,MC013,MC016,MC017,MC033,MC040",
+              "parent": "wr_cs_3"
+            },
+            {
+              "id": "3510",
+              "name": "Riviera & Provence",
+              "defaultvisible": true,
+              "parcs": "RV082,RV053,RV015,RV016,RV026,RV078,RV080,RV081,RV021,RV022,RV023,RV014,RV013,RV025,RV062,HP011,HP012,HP013,HP014",
+              "parent": "wr_cs_3"
+            },
+            {
+              "id": "3970",
+              "name": "Corsica",
+              "defaultvisible": true,
+              "parcs": "CR011,CR021",
+              "parent": "wr_cs_3"
+            }
+          ]
+        },
+        {
+          "id": "wr_cs_4",
+          "name": "Italy",
+          "defaultvisible": true,
+          "parcs": "IA037,IA013,IA033,IA021,IA018,IA017,IA022,IA015,IA014,IA026,IA012,IA025,IA051,IL020,IL036,IL019,IL045,IL025,IL044,IL026,IL011,IL023,IL022,SA015,SC011,IN018,IN014,IN015,IN022,IN020,IS013,IS014,IS018,IS011,IN017,IS012",
+          "filters": [
+            {
+              "id": "3512",
+              "name": "Adriatic",
+              "defaultvisible": true,
+              "parcs": "IA037,IA013,IA033,IA021,IA018,IA017,IA022,IA015,IA014,IA026,IA012,IA025,IA051",
+              "parent": "wr_cs_4"
+            },
+            {
+              "id": "3511",
+              "name": "Italian Lakes",
+              "defaultvisible": true,
+              "parcs": "IL020,IL036,IL019,IL045,IL025,IL044,IL026,IL011,IL023,IL022",
+              "parent": "wr_cs_4"
+            },
+            {
+              "id": "3513",
+              "name": "Tuscany, Central Italy & Elba",
+              "defaultvisible": true,
+              "parcs": "IN018,IN014,IN015,IN022,IN020,IS013,IS014,IS018,IS011,IN017,IS012",
+              "parent": "wr_cs_4"
+            },
+            {
+              "id": "3516",
+              "name": "Sardinia & Sicily",
+              "defaultvisible": true,
+              "parcs": "SA015,SC011",
+              "parent": "wr_cs_4"
+            }
+          ]
+        },
+        {
+          "id": "wr_cs_6",
+          "name": "Spain & Portugal",
+          "defaultvisible": true,
+          "parcs": "PG018,CV011,CD011,CD012,CD013,CD015,CD018,CD019,CD025,CB012,CB013,CB016,CB017,CB020,CB036,CB037,CB038,CB039,CB040",
+          "filters": [
+            {
+              "id": "3514",
+              "name": "Spain",
+              "defaultvisible": true,
+              "parcs": "CV011,CD011,CD012,CD013,CD015,CD018,CD019,CD025,CB012,CB013,CB016,CB017,CB020,CB036,CB037,CB038,CB039,CB040",
+              "parent": "wr_cs_6"
+            },
+            {
+              "id": "3515",
+              "name": "Portugal",
+              "defaultvisible": true,
+              "parcs": "PG018",
+              "parent": "wr_cs_6"
+            }
+          ]
+        },
+        {
+          "id": "3517",
+          "name": "Holland & Luxembourg",
+          "defaultvisible": true,
+          "parcs": "HL011,LU011,HL012,HL013,HL031"
+        },
+        {
+          "id": "3518",
+          "name": "Austria & Switzerland",
+          "defaultvisible": true,
+          "parcs": "AU011,SW011,SW012,SW013,AU012,AU019"
+        },
+        {
+          "id": "3519",
+          "name": "Germany",
+          "defaultvisible": true,
+          "parcs": "GE011,GE013,GE019"
+        },
+        {
+          "id": "3520",
+          "name": "Croatia",
+          "defaultvisible": true,
+          "parcs": "CA011,CA026,CA021,CA022"
+        }
+      ]
+    },
+    {
+      "groupshortcode": "accommodation",
+      "name": "Accommodation",
+      "defaultexpanded": true,
+      "filtergroups": [
+        {
+          "groupshortcode": "mobilehomes",
+          "name": "Mobile Homes",
+          "defaultexpanded": false,
+          "filtergroups": [
+            {
+              "groupshortcode": "bedrooms",
+              "defaultexpanded": false,
+              "filters": [
+                {
+                  "id": "bd2",
+                  "name": "2 bedroom mobile homes",
+                  "defaultvisible": true
+                },
+                {
+                  "id": "bd3",
+                  "name": "3 bedroom mobile homes",
+                  "defaultvisible": true
+                }
+              ]
+            },
+            {
+              "groupshortcode": "type",
+              "defaultexpanded": false,
+              "filters": [
+                {
+                  "id": "asp",
+                  "name": "Aspect mobile homes",
+                  "defaultvisible": true
+                },
+                {
+                  "id": "ava",
+                  "name": "Avant mobile homes",
+                  "defaultvisible": true
+                },
+                {
+                  "id": "azu",
+                  "name": "Azure mobile homes",
+                  "defaultvisible": true
+                },
+                {
+                  "id": "vis",
+                  "name": "Vista mobile homes",
+                  "defaultvisible": true
+                },
+                {
+                  "id": "espc",
+                  "name": "Espace mobile homes",
+                  "defaultvisible": true
+                },
+                {
+                  "id": "espt",
+                  "name": "Esprit mobile homes",
+                  "defaultvisible": true
+                },
+                {
+                  "id": "cla",
+                  "name": "Classic mobile homes",
+                  "defaultvisible": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "groupshortcode": "otheraccom",
+          "name": "Other accommodation types",
+          "defaultexpanded": false,
+          "filters": [
+            {
+              "id": "te",
+              "name": "Tents",
+              "defaultvisible": true
+            },
+            {
+              "id": "ste",
+              "name": "Safari tents",
+              "defaultvisible": true
+            },
+            {
+              "id": "cbl",
+              "name": "Bungalow/Lodge",
+              "defaultvisible": true
+            }
+          ]
+        },
+        {
+          "groupshortcode": "features",
+          "name": "Accommodation features",
+          "defaultexpanded": false,
+          "filters": [
+            {
+              "id": "ac",
+              "name": "Air conditioning",
+              "defaultvisible": true
+            },
+            {
+              "id": "dk",
+              "name": "Decking",
+              "defaultvisible": true
+            },
+            {
+              "id": "ba2",
+              "name": "Two bathrooms",
+              "defaultvisible": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupshortcode": "travel",
+      "name": "Travel",
+      "defaultexpanded": true,
+      "filtertype": "AND",
+      "filters": [
+        {
+          "id": "nearairport",
+          "name": "Near an airport",
+          "defaultvisible": true,
+          "parcs": "IL016,IL024,NR013,PY011,CB016,CD011,WM020,WM017,WM013,CV011,IA021,IL025,IL020,IL019,LU011,AU012,NR014,PA011,BN013,BS015,LR015,GA015,WM011,IL023,WM014,CD013,BS016,IL026,GE011,IA017,NR012,BS018,WM015,WM023,WM016,WM029,GA014,WM019,WM018,CB017,CD012,WM022,IL022,IA014,HL013,CD018,IA037,WM032,CB020,AT013,CD019,WM034,IS018,WM064,IL044,WM072,PG018,WM080,NR038,AT011,BS017,BN011,DR019,DR016,HL011,HL012,IL045,WM084,WM070,RV080,DR040,PA025,WM085,RV078,IA033,DR048,WM036,WM078,WM087,IA013,IL036,WM045,CD015,CA022,CB037,CB038,CB039,CD025,RV062,WM094,CB037,CD025,IA051,RV025"
+        },
+        {
+          "id": "nearferry",
+          "name": "Near ferry port",
+          "defaultvisible": true,
+          "parcs": "IN019,IN020,PC011,NR014,BN013,BN015,NR012,NR038,BN011,HL012,XTEST14"
+        },
+        {
+          "id": "neartrain",
+          "name": "Near train station",
+          "defaultvisible": true,
+          "parcs": "IN012,IS011,IA018,IN018,IS014,IN016,IL024,IN015,JU012,MC011,MC016,NR013,PY011,RV013,CB013,CB016,CD011,SW013,SW012,VN016,VN011,VN012,WM020,WM017,WM013,CB012,CB014,CV011,IN017,IL025,IL020,IL019,LU011,SW011,AU012,AU011,PC012,PC011,NR014,NR011,PA011,PA012,BN013,BN015,BS012,BN014,BS014,BS015,BS019,BS021,LR016,LR014,LR015,LR013,VN017,VN014,VS011,GA013,GA015,WM011,RV016,RV014,JU013,JU011,IL023,WM014,VS014,IA012,DR012,CD013,BS016,IS013,IL026,GE011,IN014,NR012,BS018,VN024,VS012,VS013,WM015,WM023,WM016,WM029,GE019,BS023,GA014,WM019,WM018,RV026,GR026,CB017,CD012,WM022,IL022,IA014,HL013,RV017,RV024,RV021,CD018,IA037,IA038,WM032,IN022,RV015,CB020,VS021,CD019,WM034,IS018,WM064,IL044,WM072,IA026,AU019,PG018,GR032,WM080,NR038,AL014,AL011,AL013,AT011,BS025,BS017,BN011,BS022,BU011,DR011,DR013,DR017,DR018,DR019,DR016,DR015,GE013,HL011,HL012,HP011,IL012,XTEST14,WM084,WM070,RV080,DR040,PA025,WM085,RV081,HP013,RV078,HP012,SA015,RV023,IA033,WM036,WM078,WM087,IA013,IL036,CD015,DR029,IN036,CA022,CB036,CB037,CB038,CB039,GR014,WM094,CB040,CB037,IA051,RV022"
+        },
+        {
+          "id": "carfree",
+          "name": "Car optional",
+          "defaultvisible": true,
+          "parcs": "IA018,IA022,CB016,VN011,WM020,WM013,CB012,IA021,IL020,IL019,PA011,GA015,WM011,IL026,IA017,WM023,WM016,CB017,CD012,IL022,IA014,CD018,IA037,CB020,CD019,WM034,IS018,WM072,WM080,HL012,XTEST14,CD015"
+        }
+      ]
+    },
+    {
+      "groupshortcode": "sizelocation",
+      "name": "Parc Size and Location",
+      "defaultexpanded": true,
+      "filtergroups": [
+        {
+          "groupshortcode": "size",
+          "defaultexpanded": false,
+          "filtertype": "OR",
+          "filters": [
+            {
+              "id": "small",
+              "name": "Small",
+              "defaultvisible": true,
+              "parcs": "IL016,IN019,IN016,IL024,IN015,IN020,IS012,MC011,MC016,NR013,PY011,SW013,VN016,VN012,IL025,SW011,AU012,PC011,NR011,BS021,LR013,VN017,VS017,JU013,IL023,WM014,MC017,DR012,BS016,IS013,IL026,IL011,IN014,VS012,WM015,RV021,IA037,AT012,WM032,MC040,AT013,WM064,AU019,NR038,AL014,AL016,AL011,AL013,BS025,BS017,BN011,BS022,BU011,DR011,DR013,DR017,DR018,DR016,DR015,GE013,HL011,IL012,DR046,RV082,WM084,WM070,BS062,RV080,DR040,WM085,HP013,RV078,HP012,SA015,CR021,IA033,DR048,WM078,IL036,DR029,IA025,RV062,CB040,IA051,RV025,GR037,HL031,RV022"
+            },
+            {
+              "id": "medium",
+              "name": "Medium",
+              "defaultvisible": true,
+              "parcs": "IN012,IN018,MC013,RV013,VN011,LU011,AU011,PC012,NR014,PA011,BN015,BS012,BS014,BS015,LR016,LR015,VN014,VS011,GA015,RV016,JU011,VS014,BS018,VN024,VS013,BS023,WM019,WM022,IL022,RV017,RV024,RV015,CB020,SC011,WM072,IA026,GR032,AT011,DR019,HP014,PA025,GA040,RV023,RV053,MC033,WM036,IA013,CB037,CB039,WM094,CB037"
+            },
+            {
+              "id": "large",
+              "name": "Large",
+              "defaultvisible": true,
+              "parcs": "IS011,IA018,IA015,IS014,IA022,JU012,CB013,CB016,CD011,SW012,WM020,WM017,WM013,CB012,CB014,CV011,IA021,IN017,IL020,IL019,PA012,BN013,BN014,BS019,LR014,GR013,GA013,WM011,RV014,IA012,CD013,GE011,IA017,NR012,WM023,WM016,WM029,GE019,GA014,GA011,WM018,RV026,GR026,CB017,CD012,IA014,HL013,CD018,IA038,IN022,VS021,CD019,WM034,IS018,IL044,PG018,WM080,CA011,HL012,HP011,XTEST14,CR011,CA026,RV081,WM087,CA021,WM045,CD015,CA022,CB036,CB038,CD025,GR014,CD025"
+            }
+          ]
+        },
+        {
+          "groupshortcode": "location",
+          "defaultexpanded": false,
+          "filtertype": "AND",
+          "filters": [
+            {
+              "id": "directbeach",
+              "name": "Direct beach access",
+              "defaultvisible": true,
+              "parcs": "IA018,IA015,IS014,IA022,CB013,CD011,VN016,WM020,WM017,WM013,CV011,IA021,BS014,GA013,IA012,IA017,WM023,WM016,WM018,CB017,WM022,IA014,CD018,IA037,IA038,SC011,CD019,WM064,IA026,WM080,AT011,BS017,BS022,CA011,CR011,CA026,BS062,WM085,SA015,IA033,IA013,CA021,WM045,IA025,CA022,CB039,WM094,IA051,HL031"
+            },
+            {
+              "id": "nearbeach",
+              "name": "Near a beach",
+              "defaultvisible": true,
+              "parcs": "IN012,IN019,IN015,IN020,NR013,RV013,CB016,VN011,VN012,CB012,CB014,PC012,PC011,NR014,NR011,BN013,BN015,BS012,BN014,BS015,BS019,BS021,VN017,VN014,VS011,VS017,GR013,GA015,WM011,RV016,RV014,WM014,VS014,CD013,BS016,IN014,NR012,BS018,VN024,VS012,VS013,WM015,WM029,BS023,GA014,GA011,WM019,RV026,GR026,CD012,RV017,RV024,RV021,AT012,WM032,IN022,RV015,CB020,AT013,VS021,WM034,IS018,WM072,PG018,GR032,NR038,BS025,BN011,HL011,HL012,RV082,WM084,WM070,RV080,GA040,RV081,RV078,CR021,RV023,RV053,WM036,WM078,WM087,CD015,CB036,CB037,CB038,CD025,GR014,RV062,CB040,CB037,CD025,RV025,GR037,RV022"
+            },
+            {
+              "id": "nearcity",
+              "name": "Near a city",
+              "defaultvisible": true,
+              "parcs": "IN018,IA015,IA022,IN015,PY011,RV013,CB013,CB016,CD011,WM017,WM013,CB012,CB014,CV011,IA021,IN017,IL025,IL019,LU011,PA011,PA012,BS021,LR016,LR014,LR015,LR013,GA013,GA015,WM011,RV016,RV014,IA012,CD013,BS016,IS013,BS018,WM023,GA014,GA011,RV026,CB017,CD012,WM022,HL013,RV017,RV021,CB020,IS018,IL044,PG018,BS022,HL012,XTEST14,RV082,WM084,WM070,RV080,PA025,WM085,RV078,WM045,CD015,RV062,WM094,RV025,GR037"
+            },
+            {
+              "id": "themeparks",
+              "name": "Near a theme park",
+              "defaultvisible": true,
+              "parcs": "NR013,CD011,IL020,IL019,PC012,PA011,PA012,LR015,LR013,VS011,VS014,CD013,IL026,VS012,VS013,GE019,CD012,IL022,CD018,VS021,CD019,IL044,AL016,GE013,HL011,HL012,XTEST14,PA025,IL036,WM045,CD015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupshortcode": "parcfeatures",
+      "name": "Parc Features",
+      "defaultexpanded": false,
+      "filtertype": "AND",
+      "filters": [
+        {
+          "id": "learntoride",
+          "name": "Eurocamp Kids' Clubs",
+          "defaultvisible": true,
+          "parcs": "VN011,WM020,WM013,CB012,IA021,NR014,PA012,BN013,BS012,BS019,VN017,VS011,VS017,GA013,GA015,RV014,BS018,WM034,DR019,RV053"
+        },
+        {
+          "id": "toddlers",
+          "name": "Toddler Friendly Parcs",
+          "defaultvisible": true,
+          "parcs": "AL013,AL016,AT012,AT013,AU011,BN011,BN013,BN014,BN015,BS012,BS014,BS016,BS017,BS018,BS019,BS021,BS022,CB013,CB014,CB036,CB038,CB039,CB040,CD012,CD013,CV011,DR011,DR012,DR015,DR016,DR017,DR018,DR019,DR029,DR048,GA011,GA013,GA014,GE013,GE019,GR013,GR037,HL011,HL013,HL031,IA012,IA013,IA015,IA017,IA018,IA021,IA022,IA033,IA037,IL016,IL017,IL019,IL022,IL024,IL026,IN012,IN018,IN020,IN022,LR013,LR014,LR016,LR017,LU011,MC013,NR012,NR014,PA012,PC011,PC012,RV014,RV022,RV025,RV053,RV062,VN011,VN014,VN016,VN017,VN024,VS011,VS012,VS013,VS014,VS017,VS021,WM013,WM015,WM016,WM017,WM020,WM021,WM023,WM029,WM032,WM034,WM036,WM045,WM072,WM078,WM087,WM094"
+        },
+        {
+          "id": "waterslides",
+          "name": "Waterslides",
+          "defaultvisible": true,
+          "parcs": "IN012,IA018,IN018,IA015,IN019,IA022,IN016,IN015,IN020,JU012,MC016,MC013,PY011,CD011,VN016,VN011,WM020,WM017,WM013,CB012,CB014,IA021,IN017,IL025,IL020,IL019,LU011,SW011,AU012,PC012,PC011,NR014,NR011,PA012,BN013,BN015,BS012,BN014,BS014,BS015,BS019,BS021,LR016,LR014,LR015,LR013,VN017,VN014,VS011,VS017,GR013,GA013,GA015,WM011,RV016,RV014,JU013,IL023,WM014,VS014,MC017,IA012,DR012,CD013,BS016,IS013,IA017,NR012,BS018,VN024,VS012,VS013,WM015,WM016,WM029,GE019,BS023,GA014,GA011,WM019,WM018,RV026,GR026,CB017,CD012,WM022,IL022,IA014,HL013,RV017,RV024,IA037,AT012,IA038,WM032,IN022,MC040,RV015,CB020,VS021,CD019,WM034,IS018,WM064,IL044,WM072,IA026,GR032,WM080,NR038,AL011,AL013,BS025,BS017,BN011,BS022,CA011,DR011,DR013,DR018,DR019,DR016,DR015,GE013,HL011,HL012,HP011,XTEST14,WM084,WM070,BS062,DR040,HP014,WM085,GA040,RV081,HP012,SA015,RV023,RV053,IA033,MC033,DR048,WM036,WM078,WM087,IA013,IL036,CA021,WM045,CD015,IN036,IA025,CA022,CB039,GR014,RV062,WM094,CB040,IA051,HL031"
+        },
+        {
+          "id": "splashparc",
+          "name": "Splash Parc",
+          "defaultvisible": true,
+          "parcs": "IA015,IA022,VN011,WM020,IN017,IL019,PA012,BN013,BN015,BS012,LR014,GR013,GA013,GA015,WM011,RV016,RV014,VS014,IA012,CD013,WM029,GA014,GA011,GR026,CD012,WM022,IN022,VS021,IL044,IA026,CA011,DR011,DR019,HL011,XTEST14,WM087,CA022"
+        },
+        {
+          "id": "spa",
+          "name": "Spa",
+          "defaultvisible": true,
+          "parcs": "IA015,IN020,JU012,MC011,MC013,PY011,CD011,WM017,IN017,AU011,PA012,BN015,BS012,BN014,BS014,LR016,LR014,VN017,VS011,GR013,GA013,GA015,RV016,IL023,WM014,MC017,DR012,BS016,GE011,NR012,BS018,WM023,GE019,BS023,GA014,GA011,WM019,RV026,CD012,RV017,RV021,CD018,WM032,RV015,CD019,AU019,WM080,AT011,DR017,XTEST14,CR011,BS062,DR040,GA040,RV081,HP013,MC033,CD015,CB038,WM094"
+        },
+        {
+          "id": "coveredpools",
+          "name": "Indoor/covered pool",
+          "defaultvisible": true,
+          "parcs": "JU012,MC013,PY011,VN016,VN011,IN017,LU011,AU011,PC012,PC011,NR014,NR011,PA012,BN013,BN015,BS012,BN014,BS014,BS015,BS019,LR016,LR014,LR015,LR013,VN017,VN014,VS011,GR013,GA013,GA015,WM011,RV016,RV014,JU011,VS014,MC017,DR012,BS016,NR012,BS018,VN024,VS012,VS013,GE019,BS023,GA014,GA011,RV026,GR026,CD012,HL013,RV017,WM032,IN022,VS021,WM034,GR032,WM080,NR038,AL011,AL013,AT011,BS017,BN011,BU011,CA011,DR011,DR017,DR018,DR019,DR015,HL011,HL012,XTEST14,DR040,GA040,MC033,WM036,WM087,CD015,CB038,GR014,RV062,GR037,HL031"
+        },
+        {
+          "id": "offerone",
+          "name": "Open for Easter",
+          "defaultvisible": true,
+          "parcs": "PA012,RV014,DR019,BN014,CB020,CD015,HL011,HL012,HL013,IL019,LU011,PA025,PC011,PG018,WM080,RV016,RV021,WM064,IL045,CD019,DR017,IL036,IN014,IS018,SC011,SW012,DR012,RV053,WM020,WM032,CB016,CD018,NR014,BS018,CD013,GE019,AU012,BN013,BS012,BS023,BS062,CA011,CB038,CB039,CB040,CD011,CD025,GA011,GE013,HL031,IA012,IA015,IL022,IL023,IL025,IL026,IL044,IN017,IN018,IN022,IS013,IS014,MC011,MC013,MC017,NR011,PC012,RV013,RV015,RV026,RV078,VS021,WM011,WM014,WM017,WM034"
+        },
+        {
+          "id": "dogfriendly",
+          "name": "Dog Friendly Parcs",
+          "defaultvisible": true,
+          "parcs": "IS011,IN015,IN020,IS012,JU012,MC016,MC013,PY011,RV013,CB013,CB016,SW013,SW012,VN016,VN011,WM020,WM013,CB012,IN017,IL025,LU011,SW011,AU012,AU011,PC012,PC011,NR014,NR011,PA012,BN013,BN015,BN014,BS015,BS019,BS021,LR016,LR013,VN017,VN014,VS011,GR013,GA013,GA015,WM011,RV016,RV014,JU013,IL023,WM014,VS014,MC017,DR012,IS013,IL026,GE011,IL011,IN014,BS018,VN024,VS012,VS013,WM015,WM023,WM016,WM029,GE019,BS023,GA014,GA011,WM019,WM018,RV026,CB017,WM022,IL022,HL013,RV021,AT012,IN022,MC040,RV015,CB020,SC011,AT013,VS021,WM034,IS018,WM064,IL044,IA026,AU019,PG018,GR032,WM080,NR038,AL014,AL016,AL011,AL013,BS017,BN011,BS022,CA011,DR011,DR013,DR017,DR018,DR019,DR016,DR015,GE013,HL012,HP011,RV082,CR011,CA026,WM084,WM070,BS062,RV080,DR040,HP014,PA025,WM085,GA040,RV081,HP013,RV078,HP012,SA015,RV023,RV053,MC033,DR048,WM036,WM078,WM087,CA021,WM045,DR029,IA025,CD025,WM094,CB040,CD025,IA051,RV025,GR037,RV022"
+        }
+      ]
+    },
+    {
+      "groupshortcode": "kidsclubspreschool",
+      "name": "Fun Station For All Kids' Clubs",
+      "defaultexpanded": false,
+      "filtertype": "AND",
+      "filters": [
+        {
+          "id": "minifun",
+          "name": "Mini Fun Station (6m - 5 yrs)",
+          "defaultvisible": true,
+          "parcs": "WM020,WM013,CB012,IA021,VN017,VS017,GA013,GA015,WM034"
+        },
+        {
+          "id": "fun4all",
+          "name": "Fun Station For All (4 - 17 yrs)",
+          "defaultvisible": true,
+          "parcs": "WM020,WM013,CB012,IA021,VN017,VS017,GA013,GA015,WM034"
+        },
+        {
+          "id": "familyactivities",
+          "name": "Family Activities (all ages)",
+          "defaultvisible": true,
+          "parcs": "CB012,GA013,GA015,IA021,VN017,VS017,WM013,WM020,WM034"
+        }
+      ]
+    },
+    {
+      "groupshortcode": "kidsclubsforallages",
+      "name": "Fun Station PLUS Kids' Clubs",
+      "defaultexpanded": false,
+      "filtertype": "AND",
+      "filters": [
+        {
+          "id": "minifunplus",
+          "name": "Mini Fun Station (6m - 5 yrs)",
+          "defaultvisible": true,
+          "parcs": "BN013,BS012,BS018,BS019,DR019,NR014,PA012,RV014,RV053,VN011,VS011"
+        },
+        {
+          "id": "fun4",
+          "name": "Leo's Fun Station (4 - 6 yrs)",
+          "defaultvisible": true,
+          "parcs": "VN011,NR014,PA012,BN013,BS012,BS019,VS011,RV014,BS018,DR019,RV053"
+        },
+        {
+          "id": "fun7",
+          "name": "Mac's Fun Station (6 - 9 yrs)",
+          "defaultvisible": true,
+          "parcs": "VN011,NR014,PA012,BN013,BS012,BS019,VS011,RV014,BS018,DR019,RV053"
+        },
+        {
+          "id": "fun10",
+          "name": "The Station (9 - 12 yrs)",
+          "defaultvisible": true,
+          "parcs": "VN011,NR014,PA012,BN013,BS012,BS019,VS011,RV014,BS018,DR019,RV053"
+        },
+        {
+          "id": "base",
+          "name": "Base (13 - 17 yrs)",
+          "defaultvisible": true,
+          "parcs": "VN011,NR014,PA012,BN013,BS012,BS019,VS011,RV014,BS018,DR019,RV053"
+        },
+        {
+          "id": "learntodance",
+          "name": "Family Activities (all ages)",
+          "defaultvisible": true,
+          "parcs": "BN013,BS012,BS018,BS019,DR019,NR014,PA012,RV014,RV053,VN011,VS011"
+        }
+      ]
+    },
+    {
+      "groupshortcode": "recommendedfor",
+      "name": "Recommended for",
+      "defaultexpanded": false,
+      "filtertype": "AND",
+      "filters": [
+        {
+          "id": "fishing",
+          "name": "Fishing",
+          "defaultvisible": true,
+          "parcs": "IL016,IS011,IL024,JU012,MC011,NR013,RV013,CB013,SW012,WM020,IL020,NR011,PA011,PA012,BN013,BS015,LR016,LR014,LR015,LR013,VS011,GA015,JU013,JU011,IL023,MC017,IL026,GE011,IL011,VS012,BS023,GA011,IL022,HL013,RV024,RV021,CD018,MC040,SC011,VS021,WM064,BS025,BN011,BU011,DR011,DR018,DR019,DR015,HL011,HP011,IL012,XTEST14,DR046,DR040,HP013,HP012,DR048,CA021,DR029,IA025,CB039,HL031,RV022"
+        },
+        {
+          "id": "activecycling",
+          "name": "Cycling",
+          "defaultvisible": true,
+          "parcs": "PY011,AU011,CD019,AL014,AL016,AL011,AL013,XTEST14"
+        },
+        {
+          "id": "canoeing",
+          "name": "Canoeing",
+          "defaultvisible": true,
+          "parcs": "IL016,IS011,IA015,IS014,IN019,IA022,IL024,JU012,MC011,NR013,PY011,RV013,CB013,CB016,SW013,SW012,VN016,VN011,WM017,WM013,CB012,CB014,CV011,IA021,IL025,IL020,IL019,LU011,AU012,AU011,PC012,PC011,NR011,PA011,PA012,BN015,BS012,BN014,BS014,BS015,BS019,BS021,LR016,LR014,LR015,LR013,VN017,VN014,VS011,VS017,GR013,GA013,GA015,WM011,RV016,RV014,JU013,JU011,IL023,WM014,VS014,MC017,IA012,DR012,BS016,GE011,IL011,IA017,BS018,VN024,VS012,VS013,WM015,WM016,WM029,GE019,BS023,GA014,WM019,WM018,RV026,GR026,CB017,WM022,IL022,IA014,HL013,RV017,RV024,RV021,CD018,AT012,IA038,WM032,IN022,MC040,RV015,AT013,VS021,WM064,IL044,WM072,IA026,GR032,WM080,NR038,AL014,AL016,AL011,AL013,AT011,BS025,BS017,BN011,BS022,BU011,CA011,DR011,DR013,DR017,DR018,DR019,DR016,DR015,HL011,HP011,IL012,XTEST14,DR046,IL045,BS062,DR040,HP014,PA025,GA040,RV081,HP013,HP012,SA015,CR021,RV023,RV053,IA033,MC033,DR048,WM036,IA013,IL036,CA021,WM045,CD015,DR029,CA022,CB038,CB039,RV062,CB040,IA051,GR037,RV022"
+        },
+        {
+          "id": "golfcourse",
+          "name": "Golf",
+          "defaultvisible": true,
+          "parcs": "IL016,IA018,IN019,IL024,MC011,NR013,RV013,CB013,CB016,CD011,SW012,VN011,VN012,WM017,WM013,CB012,CB014,CV011,IL025,IL020,IL019,LU011,SW011,AU011,NR014,PA011,BN013,BN015,BS012,BN014,BS014,BS019,LR014,GA013,GA015,WM011,RV016,RV014,JU013,JU011,WM014,VS014,IA012,CD013,BS016,IL026,GE011,IA017,BS018,WM015,WM023,WM016,BS023,WM018,RV026,CB017,CD012,IL022,IA014,HL013,RV017,RV024,RV021,CD018,IA037,AT012,IA038,RV015,CB020,VS021,CD019,WM034,IS018,WM064,IL044,PG018,GR032,WM080,NR038,AL014,AL011,AL013,BS025,BN011,DR013,DR019,GE013,HL011,HL012,XTEST14,IL045,PA025,RV053,IA033,WM036,IA013,IL036,CD015,CB036,CB037,RV062,CB037,RV025,RV022"
+        },
+        {
+          "id": "horseriding",
+          "name": "Horse riding",
+          "defaultvisible": true,
+          "parcs": "IA018,IN018,IA015,IN019,IA022,IN016,IL024,IN020,JU012,MC011,MC013,NR013,PY011,RV013,CB013,CB016,CD011,SW012,VN016,VN011,VN012,WM020,WM017,CB012,CV011,IA021,IN017,IL020,IL019,LU011,SW011,AU012,AU011,PC011,NR014,NR011,PA011,PA012,BN013,BN015,BS012,BN014,BS015,BS019,LR016,LR014,LR013,VN017,VN014,VS011,VS017,GR013,GA013,GA015,WM011,RV014,JU013,JU011,IL023,WM014,VS014,MC017,IA012,BS016,IS013,IL026,GE011,IL011,IN014,NR012,BS018,VN024,VS012,VS013,WM015,WM023,WM016,WM029,GE019,BS023,GA014,GA011,WM019,WM018,RV026,WM022,IA014,HL013,RV017,RV024,RV021,CD018,IA037,AT012,IA038,WM032,IN022,MC040,CB020,AT013,VS021,WM034,IS018,WM064,IL044,WM072,AU019,PG018,GR032,WM080,NR038,AL014,AL016,AL011,AL013,AT011,BS025,BS017,BN011,BS022,CA011,DR011,DR013,DR018,DR019,DR016,DR015,HL011,HP011,XTEST14,IL045,CA026,WM084,WM070,HP014,GA040,RV081,HP012,SA015,RV023,RV053,IA033,MC033,DR048,WM036,CD015,IN036,IA025,CA022,WM094,IA051,GR037,RV022"
+        },
+        {
+          "id": "surfing",
+          "name": "Surfing",
+          "defaultvisible": true,
+          "parcs": "IN012,IA018,IN019,IN015,IN020,CD011,VN016,VN011,VN012,WM017,CB014,CV011,LU011,PC012,PC011,NR014,NR011,BN013,BN015,BS012,BN014,BS014,BS015,BS019,BS021,VN017,VN014,VS011,VS017,GR013,GA013,GA015,RV016,RV014,IL023,WM014,VS014,BS016,IN014,BS018,VN024,VS012,VS013,WM015,GE019,BS023,GA014,GA011,RV026,GR026,CB017,RV024,CD018,IA037,AT012,WM032,IN022,RV015,AT013,VS021,WM034,IS018,WM072,PG018,GR032,NR038,AT011,BS025,BS017,BS022,HL011,HL012,IL012,BS062,CD015,GR014,GR037"
+        },
+        {
+          "id": "watersports",
+          "name": "Watersports",
+          "defaultvisible": true,
+          "parcs": "IL016,IN012,IS011,IA018,IA015,IS014,IN019,IA022,IL024,IN015,IN020,IS012,JU012,MC016,MC013,NR013,PY011,RV013,CB013,CB016,CD011,SW013,SW012,VN016,VN011,VN012,WM020,WM017,WM013,CB012,CB014,CV011,IA021,IL025,IL020,IL019,LU011,AU012,AU011,PC012,PC011,NR014,NR011,PA011,PA012,BN013,BN015,BS012,BN014,BS014,BS015,BS019,BS021,LR014,LR013,VN017,VN014,VS011,VS017,GR013,GA013,GA015,WM011,RV016,RV014,JU011,IL023,WM014,VS014,IA012,BS016,IS013,IL026,GE011,IL011,IA017,IN014,NR012,BS018,VN024,VS012,VS013,WM015,WM023,WM016,WM029,GE019,BS023,GA014,GA011,WM019,WM018,RV026,GR026,CB017,CD012,WM022,IL022,IA014,HL013,RV017,RV024,RV021,CD018,IA037,AT012,IA038,WM032,IN022,RV015,CB020,AT013,VS021,WM034,IS018,WM064,IL044,WM072,AU019,PG018,GR032,WM080,NR038,AL014,AL016,AL011,AL013,AT011,BS025,BS017,BN011,BS022,CA011,DR015,HL011,HL012,HP011,IL012,XTEST14,IL045,CR011,WM084,BS062,RV080,GA040,RV081,RV078,SA015,CR021,RV023,RV053,IA033,DR048,WM036,WM078,WM087,IA013,IL036,CA021,CD015,CA022,CB036,GR014,WM094,IA051,GR037,HL031,RV022"
+        },
+        {
+          "id": "walking",
+          "name": "Walking and hiking",
+          "defaultvisible": true,
+          "parcs": "JU012,MC013,IN017,SW011,AU011,NR014,BN015,BS015,BS019,BS021,LR015,JU011,DR012,BS018,XTEST14"
+        }
+      ]
+    },
+    {
+      "groupshortcode": "holidaytype",
+      "name": "Holiday Type",
+      "defaultexpanded": false,
+      "filtertype": "AND",
+      "filters": [
+        {
+          "id": "relaxed",
+          "name": "Relaxed",
+          "defaultvisible": true,
+          "parcs": "AL011,AL013,AL014,AL016,AT012,AT013,AU011,AU012,AU019,BN011,BS017,BS021,BS022,BS062,BU011,CB036,CB037,CB039,CB040,CD025,CR021,CV011,DR012,DR013,DR015,DR016,DR017,DR018,DR029,DR040,DR046,DR048,GA040,GE011,GE013,GR014,GR026,GR032,GR037,HL011,HL031,HP011,HP012,HP013,HP014,IA033,IA037,IA051,IL011,IL023,IL025,IL026,IL036,IL045,IN014,IN015,IN018,IN020,IS011,IS012,IS013,JU012,JU013,LR013,LR015,LR016,MC011,MC016,MC040,NR011,NR013,NR038,PA025,PC011,PC012,PG018,PY011,RV013,RV016,RV021,RV022,RV025,RV026,RV062,RV078,RV080,RV081,RV082,SA015,SC011,SW011,SW012,SW013,VN014,VN017,VN024,VS012,VS017,WM032,WM036,WM064,WM070,WM078,WM084,WM085,WM094"
+        },
+        {
+          "id": "lively",
+          "name": "Lively",
+          "defaultvisible": true,
+          "parcs": "BN013,BN014,BN015,BS012,BS014,BS015,BS018,BS019,BS023,CA011,CA021,CA022,CA026,CB012,CB013,CB016,CB017,CB020,CB038,CD011,CD012,CD013,CD015,CD018,CD019,CR011,DR011,DR019,GA011,GA013,GA014,GA015,GE019,GR013,HL012,HL013,IA012,IA013,IA014,IA015,IA017,IA018,IA021,IA022,IA025,IA026,IL019,IL020,IL022,IL044,IN017,IN022,IS014,IS018,LR014,LU011,MC013,MC017,MC033,NR014,PA012,RV014,RV015,RV023,RV053,VN011,VN016,VS011,VS013,VS014,VS021,WM011,WM013,WM014,WM015,WM017,WM018,WM019,WM020,WM022,WM023,WM029,WM034,WM045,WM080,WM087"
+        },
+        {
+          "id": "actionpacked",
+          "name": "Action Packed",
+          "defaultvisible": true,
+          "parcs": "AU011,BN013,BN014,BN015,BS012,BS015,BS018,BS019,BS023,CA011,CA021,CA022,CB013,CB020,CB038,CD012,CD013,CD019,DR011,DR019,GA011,GA013,GA014,GA015,GE019,GR013,GR026,HL012,HL031,HP014,IA012,IA015,IA022,IL019,JU012,LR014,MC013,MC017,MC033,NR014,PA012,RV015,RV053,VS011,VS014,WM011,WM013,WM014,WM015,WM017,WM020,WM022,WM023,WM029,WM034,WM080,WM087"
+        },
+        {
+          "id": "valueparcs",
+          "name": "Great for Savers",
+          "defaultvisible": true,
+          "parcs": "BS062,CD025,HP012,HP013,NR038,RV078,RV080,RV081,RV082,WM084,WM085"
+        }
+      ]
+    }
+  ]
+}
