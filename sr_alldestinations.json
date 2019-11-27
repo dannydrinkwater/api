@@ -1,0 +1,2321 @@
+{
+  "results": [
+    {
+      "parc": "BN013",
+      "order": 1,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 48.492393,
+        "lng": -1.727772
+      },
+      "parcName": "Domaine des Ormes Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BN011",
+      "order": 2,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 48.584954,
+        "lng": -2.2575
+      },
+      "parcName": "Château de Galinée Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BN014",
+      "order": 3,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 48.8277,
+        "lng": -3.473868
+      },
+      "parcName": "Le Ranolien Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BN015",
+      "order": 4,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 48.658966,
+        "lng": -3.928921
+      },
+      "parcName": "Les Mouettes Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS012",
+      "order": 5,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.862744,
+        "lng": -4.095111
+      },
+      "parcName": "La Pointe St-Gilles Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS018",
+      "order": 6,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.577249,
+        "lng": -3.068833
+      },
+      "parcName": "Des Menhirs Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS014",
+      "order": 7,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.8567,
+        "lng": -4.02083
+      },
+      "parcName": "L'Atlantique Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS015",
+      "order": 8,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.905224,
+        "lng": -3.47565
+      },
+      "parcName": "Le Ty-Nadan Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS017",
+      "order": 9,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.793344,
+        "lng": -3.801205
+      },
+      "parcName": "Raguénès-Plage Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS019",
+      "order": 10,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.597511,
+        "lng": -3.060715
+      },
+      "parcName": "La Grande Métairie Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS021",
+      "order": 11,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.573631,
+        "lng": -3.025789
+      },
+      "parcName": "La Baie Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS022",
+      "order": 12,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.575999,
+        "lng": -3.029529
+      },
+      "parcName": "La Plage Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS023",
+      "order": 13,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.614293,
+        "lng": -2.9254
+      },
+      "parcName": "Le Mané Guernehué Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "BS062",
+      "order": 14,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 48.192273,
+        "lng": -4.30122
+      },
+      "parcName": "Domaine de Ker Ys Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "NR011",
+      "order": 15,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 48.79755,
+        "lng": -1.524632
+      },
+      "parcName": "Château Lez Eaux Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "NR013",
+      "order": 16,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 49.226256,
+        "lng": 0.3024
+      },
+      "parcName": "Château Le Brevedent Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "NR014",
+      "order": 17,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 49.294009,
+        "lng": -0.068278
+      },
+      "parcName": "La Vallée Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "PC011",
+      "order": 18,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 50.866514,
+        "lng": 1.856747
+      },
+      "parcName": "La Bien Assise Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "PC012",
+      "order": 19,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 50.152809,
+        "lng": 1.636139
+      },
+      "parcName": "Domaine de Drancourt Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "PA012",
+      "order": 20,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 49.405479,
+        "lng": 3.128775
+      },
+      "parcName": "La Croix du Vieux Pont Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "LR013",
+      "order": 21,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.2472,
+        "lng": 0.000011
+      },
+      "parcName": "Domaine de la Brèche Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "LR014",
+      "order": 22,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.54439,
+        "lng": 2.19189
+      },
+      "parcName": "Les Alicourts Resort",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "LR015",
+      "order": 23,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.148269,
+        "lng": 0.653933
+      },
+      "parcName": "Le Parc de Fierbois Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VN011",
+      "order": 24,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.752677,
+        "lng": -2.014626
+      },
+      "parcName": "Le Clarys-Plage Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VN016",
+      "order": 25,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.7406,
+        "lng": -2.003847
+      },
+      "parcName": "Sol a Gogo Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VN017",
+      "order": 26,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.744757,
+        "lng": -2.008374
+      },
+      "parcName": "Les Ecureuils Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VS011",
+      "order": 27,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.66387,
+        "lng": -1.71346
+      },
+      "parcName": "La Garangeoire Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VS012",
+      "order": 28,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.6432,
+        "lng": -1.71198
+      },
+      "parcName": "Château La Forêt Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VS013",
+      "order": 29,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.420897,
+        "lng": -1.569661
+      },
+      "parcName": "L'Oceano d'Or Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VS017",
+      "order": 30,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.348601,
+        "lng": -1.431806
+      },
+      "parcName": "Bel Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VS021",
+      "order": 31,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.665519,
+        "lng": -1.75468
+      },
+      "parcName": "Le Pin Parasol Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "AT012",
+      "order": 32,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.967946,
+        "lng": -1.318703
+      },
+      "parcName": "Domaine d'Oléron Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "VS031",
+      "order": 33,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.653708,
+        "lng": -1.749627
+      },
+      "parcName": "La Guyonnière",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "DR019",
+      "order": 34,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.95155,
+        "lng": 0.850604
+      },
+      "parcName": "St. Avit Loisirs Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "DR048",
+      "order": 35,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.771336,
+        "lng": 0.411658
+      },
+      "parcName": "Pomport Beach Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "DR017",
+      "order": 36,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.002053,
+        "lng": 1.070999
+      },
+      "parcName": "Le Paradis Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "DR013",
+      "order": 37,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.904079,
+        "lng": 1.280808
+      },
+      "parcName": "Les Grottes de Roffy Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "DR015",
+      "order": 38,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.7679,
+        "lng": 1.176353
+      },
+      "parcName": "Le Moulin de Paulhiac Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "DR016",
+      "order": 39,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.879703,
+        "lng": 0.886128
+      },
+      "parcName": "Le Port de Limeuil Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "DR046",
+      "order": 40,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.8383333,
+        "lng": 1.1486111
+      },
+      "parcName": "Camping Le Capeyrou",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "DR040",
+      "order": 41,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.936543,
+        "lng": 1.234121
+      },
+      "parcName": "Le Val d'Ussel Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "JU012",
+      "order": 42,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.66422,
+        "lng": 5.81395
+      },
+      "parcName": "Domaine de Chalain Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "JU013",
+      "order": 43,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.507729,
+        "lng": 6.355923
+      },
+      "parcName": "Le Val de Bonnal Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "AL011",
+      "order": 44,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.800444,
+        "lng": 6.204507
+      },
+      "parcName": "Camping Les Fontaines Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "AL013",
+      "order": 45,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.8031,
+        "lng": 6.208975
+      },
+      "parcName": "La Ravoire Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "AL014",
+      "order": 46,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.774423,
+        "lng": 6.224727
+      },
+      "parcName": "La Ferme de la Serraz Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "AL016",
+      "order": 47,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.114399,
+        "lng": 6.007775
+      },
+      "parcName": "Le Belledonne Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GA011",
+      "order": 48,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.460449,
+        "lng": -1.130669
+      },
+      "parcName": "La Rive Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GA013",
+      "order": 49,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.797894,
+        "lng": -1.401106
+      },
+      "parcName": "Le Vieux Port Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GA014",
+      "order": 50,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.596003,
+        "lng": -1.4563
+      },
+      "parcName": "Sylvamar Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GA015",
+      "order": 51,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.436654,
+        "lng": -1.567783
+      },
+      "parcName": "Le Ruisseau Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GA040",
+      "order": 52,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.029254,
+        "lng": -1.257806
+      },
+      "parcName": "Le Soleil des Landes Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GR037",
+      "order": 53,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.178869,
+        "lng": -1.074885
+      },
+      "parcName": "Le Village Western Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GR014",
+      "order": 54,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.701778,
+        "lng": -1.157474
+      },
+      "parcName": "Palmyre Loisirs",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GR013",
+      "order": 55,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.811217,
+        "lng": -1.060894
+      },
+      "parcName": "Sequoia Parc Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GR026",
+      "order": 56,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.223025,
+        "lng": -1.163135
+      },
+      "parcName": "Cote D'Argent Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "PY011",
+      "order": 57,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.8805,
+        "lng": -0.01115
+      },
+      "parcName": "Airotel Pyrénées Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GA049",
+      "order": 58,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.434964,
+        "lng": -1.58218
+      },
+      "parcName": "Camping Oyam",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "MC033",
+      "order": 59,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.444102,
+        "lng": 4.36574
+      },
+      "parcName": "Aluna Vacances Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "MC011",
+      "order": 60,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.39804,
+        "lng": 4.39878
+      },
+      "parcName": "L'Ardéchois Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "MC013",
+      "order": 61,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.413199,
+        "lng": 4.270484
+      },
+      "parcName": "Le Ranc Davaine Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "MC016",
+      "order": 62,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.045509,
+        "lng": 3.301671
+      },
+      "parcName": "Val de Cantobre Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "MC017",
+      "order": 63,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.5613,
+        "lng": 4.285976
+      },
+      "parcName": "Les Ranchisses Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV014",
+      "order": 64,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.465469,
+        "lng": 6.723987
+      },
+      "parcName": "La Baume Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV016",
+      "order": 65,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.454161,
+        "lng": 6.832933
+      },
+      "parcName": "Esterel Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV053",
+      "order": 66,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.285222,
+        "lng": 6.579472
+      },
+      "parcName": "Domaine des Naiades",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV025",
+      "order": 67,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.522164,
+        "lng": 6.931491
+      },
+      "parcName": "Camping Côté Mer",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV062",
+      "order": 68,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.588857,
+        "lng": 6.938999
+      },
+      "parcName": "Saint Louis",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV013",
+      "order": 69,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.415932,
+        "lng": 6.7054
+      },
+      "parcName": "L'Etoile d'Argens Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV015",
+      "order": 70,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.445623,
+        "lng": 6.72673
+      },
+      "parcName": "Club Colombier",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV021",
+      "order": 71,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.2699,
+        "lng": 6.573158
+      },
+      "parcName": "Holiday Marina Resort Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV026",
+      "order": 72,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.484906,
+        "lng": 6.716681
+      },
+      "parcName": "Holiday Green Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV078",
+      "order": 73,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.690049,
+        "lng": 7.156468
+      },
+      "parcName": "Green Park Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV080",
+      "order": 74,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.0765,
+        "lng": 5.905845
+      },
+      "parcName": "La Presqu'Île Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "RV081",
+      "order": 75,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.187429,
+        "lng": 5.658036
+      },
+      "parcName": "La Baie des Anges Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "HP012",
+      "order": 76,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.718326,
+        "lng": 5.354976
+      },
+      "parcName": "Le Val de Durance Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "HP013",
+      "order": 77,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.7775,
+        "lng": 5.086667
+      },
+      "parcName": "Les Rives du Luberon Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "HP014",
+      "order": 78,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.660351,
+        "lng": 6.150884
+      },
+      "parcName": "Les Lacs du Verdon Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM094",
+      "order": 79,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.738918,
+        "lng": 3.033689
+      },
+      "parcName": "Camping de la Plage",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM087",
+      "order": 80,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.547051,
+        "lng": 3.046683
+      },
+      "parcName": "Le Front de Mer Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM034",
+      "order": 81,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.552717,
+        "lng": 3.044693
+      },
+      "parcName": "La Chapelle Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM011",
+      "order": 82,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.570916,
+        "lng": 3.029233
+      },
+      "parcName": "La Sirène Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM013",
+      "order": 83,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.570528,
+        "lng": 3.040806
+      },
+      "parcName": "Le Soleil Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM014",
+      "order": 84,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.53881,
+        "lng": 3.05206
+      },
+      "parcName": "Le Bois de Valmarie Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM015",
+      "order": 85,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.570983,
+        "lng": 3.031127
+      },
+      "parcName": "Hippocampe Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM017",
+      "order": 86,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.707019,
+        "lng": 3.03493
+      },
+      "parcName": "Le Brasilia Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM064",
+      "order": 87,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.533576,
+        "lng": 3.067675
+      },
+      "parcName": "Criques de Porteils Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM070",
+      "order": 88,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.765655,
+        "lng": 3.027306
+      },
+      "parcName": "Le Palmeraie Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM096",
+      "order": 89,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.805237,
+        "lng": 3.026617
+      },
+      "parcName": "La Presqu'ile",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM050",
+      "order": 90,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.706809,
+        "lng": 3.030463
+      },
+      "parcName": "Camping Les Peupliers",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM020",
+      "order": 91,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.280138,
+        "lng": 3.36386
+      },
+      "parcName": "Les Sablons Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM022",
+      "order": 92,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.26744,
+        "lng": 3.334737
+      },
+      "parcName": "Aloha Village Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM023",
+      "order": 93,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.291057,
+        "lng": 3.418942
+      },
+      "parcName": "Club Farret Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM029",
+      "order": 94,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.237181,
+        "lng": 3.26245
+      },
+      "parcName": "Domaine de la Yole Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM032",
+      "order": 95,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.764896,
+        "lng": 4.097868
+      },
+      "parcName": "Domaine de Massereau Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM085",
+      "order": 96,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.313914,
+        "lng": 3.548024
+      },
+      "parcName": "Dunes et Soleil Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM084",
+      "order": 97,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.230052,
+        "lng": 3.248686
+      },
+      "parcName": "Les Sablines Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM098",
+      "order": 98,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.2931674,
+        "lng": 3.4149524
+      },
+      "parcName": "Camping Club Le Napoleon",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM080",
+      "order": 99,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.30582,
+        "lng": 3.537989
+      },
+      "parcName": "Le Beach Garden Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM045",
+      "order": 100,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.282141,
+        "lng": 3.371224
+      },
+      "parcName": "Le Méditerranée Plage Camping Village",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "WM105",
+      "order": 101,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.294151,
+        "lng": 3.408174
+      },
+      "parcName": "Domaine Sainte Cécile",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CR011",
+      "order": 102,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.997819,
+        "lng": 9.449264
+      },
+      "parcName": "Marina d'Erba Rossa Campsite ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CR021",
+      "order": 103,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.865,
+        "lng": 9.385
+      },
+      "parcName": "Sole di Sari Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA051",
+      "order": 104,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.77584,
+        "lng": 13.527636
+      },
+      "parcName": "Marina Julia Camping Village",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA025",
+      "order": 105,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.725096,
+        "lng": 12.238646
+      },
+      "parcName": "Vigna sul Mar Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA012",
+      "order": 106,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.572882,
+        "lng": 12.813213
+      },
+      "parcName": "Pra Delle Torri Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA013",
+      "order": 107,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.553848,
+        "lng": 12.766488
+      },
+      "parcName": "Portofelice Camping Village",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA014",
+      "order": 108,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.478993,
+        "lng": 12.563596
+      },
+      "parcName": "Garden Paradiso Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA015",
+      "order": 109,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.467799,
+        "lng": 12.5298
+      },
+      "parcName": "Union Lido Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA017",
+      "order": 110,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.4768232,
+        "lng": 12.5552
+      },
+      "parcName": "Sant'Angelo Village Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA021",
+      "order": 111,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.44595,
+        "lng": 12.46115
+      },
+      "parcName": "Ca'Savio Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA022",
+      "order": 112,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.43737,
+        "lng": 12.43812
+      },
+      "parcName": "Marina di Venezia Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA026",
+      "order": 113,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.690278,
+        "lng": 12.239444
+      },
+      "parcName": "Spiaggia E Mare Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA033",
+      "order": 114,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.480268,
+        "lng": 12.574007
+      },
+      "parcName": "Residence Village Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA037",
+      "order": 115,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.53165,
+        "lng": 12.722425
+      },
+      "parcName": "Waikiki Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IA029",
+      "order": 116,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.433406,
+        "lng": 12.296673
+      },
+      "parcName": "Adriano",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL019",
+      "order": 117,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.44168,
+        "lng": 10.67773
+      },
+      "parcName": "Bella Italia Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL022",
+      "order": 118,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.447815,
+        "lng": 10.702043
+      },
+      "parcName": "Del Garda Village and Camping ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL026",
+      "order": 119,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.44515,
+        "lng": 10.69457
+      },
+      "parcName": "Butterfly Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL036",
+      "order": 120,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.55925,
+        "lng": 10.716778
+      },
+      "parcName": "Serenella Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL023",
+      "order": 121,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.599927,
+        "lng": 10.549364
+      },
+      "parcName": "Eden Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL025",
+      "order": 122,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.5950852,
+        "lng": 10.5336811
+      },
+      "parcName": "Weekend Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL020",
+      "order": 123,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.525134,
+        "lng": 10.729169
+      },
+      "parcName": "Cisano San Vito Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL044",
+      "order": 124,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.3972276,
+        "lng": 10.7183164
+      },
+      "parcName": "Altomincio Family Park Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL045",
+      "order": 125,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.43732,
+        "lng": 10.71691
+      },
+      "parcName": "Belvedere Village Apartments ",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IL011",
+      "order": 126,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.753956,
+        "lng": 10.497486
+      },
+      "parcName": "Rio Vantone Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IN017",
+      "order": 127,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.61212,
+        "lng": 11.44879
+      },
+      "parcName": "Norcenni Girasole Club Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IN018",
+      "order": 128,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.98714,
+        "lng": 11.86402
+      },
+      "parcName": "Parco delle Piscine Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IN014",
+      "order": 129,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.30154,
+        "lng": 10.581
+      },
+      "parcName": "Valle Gaia Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IN015",
+      "order": 130,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.166014,
+        "lng": 10.613623
+      },
+      "parcName": "Le Pianacce Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IN022",
+      "order": 131,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.02871,
+        "lng": 10.5339
+      },
+      "parcName": "Park Albatros Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IS013",
+      "order": 132,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.155005,
+        "lng": 12.573316
+      },
+      "parcName": "I Pini Family Park Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IS018",
+      "order": 133,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.777,
+        "lng": 12.396111
+      },
+      "parcName": "Camping Village Fabulous Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IS012",
+      "order": 134,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.888,
+        "lng": 13.01464
+      },
+      "parcName": "Il Collaccio Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IS014",
+      "order": 135,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.207391,
+        "lng": 13.79177
+      },
+      "parcName": "Baia Domizia Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IS011",
+      "order": 136,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.627273,
+        "lng": 11.994635
+      },
+      "parcName": "Lido Camping Village Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "IN020",
+      "order": 137,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.751881,
+        "lng": 10.245261
+      },
+      "parcName": "Ville Degli Ulivi Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "SA015",
+      "order": 138,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 40.077283,
+        "lng": 8.492067
+      },
+      "parcName": "Bella Sardinia Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "SC011",
+      "order": 139,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 38.150774,
+        "lng": 12.731861
+      },
+      "parcName": "El Bahira Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB039",
+      "order": 140,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.617763,
+        "lng": 2.676798
+      },
+      "parcName": "Caballo de Mar Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB040",
+      "order": 141,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.187696,
+        "lng": 3.088889
+      },
+      "parcName": "Camping Riu",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB037",
+      "order": 142,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.707278,
+        "lng": 2.880729
+      },
+      "parcName": "Canyelles Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB036",
+      "order": 143,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.981209,
+        "lng": 3.201346
+      },
+      "parcName": "Interpals Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB038",
+      "order": 144,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.662994,
+        "lng": 2.781019
+      },
+      "parcName": "La Masia Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB012",
+      "order": 145,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.051093,
+        "lng": 3.183117
+      },
+      "parcName": "Castell Montgri Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB013",
+      "order": 146,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 42.011,
+        "lng": 3.186134
+      },
+      "parcName": "El Delfin Verde Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB016",
+      "order": 147,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.832887,
+        "lng": 3.084691
+      },
+      "parcName": "Internacional de Calonge Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB017",
+      "order": 148,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.8304,
+        "lng": 3.083865
+      },
+      "parcName": "Cala Gogo Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB020",
+      "order": 149,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.697358,
+        "lng": 2.821605
+      },
+      "parcName": "Camping Tucan Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD018",
+      "order": 150,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.038181,
+        "lng": 0.974747
+      },
+      "parcName": "La Torre del Sol Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD015",
+      "order": 151,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.231961,
+        "lng": 1.691219
+      },
+      "parcName": "Vilanova Park Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD019",
+      "order": 152,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.033743,
+        "lng": 0.968792
+      },
+      "parcName": "Playa Montroig Camping Resort",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD011",
+      "order": 153,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.17313,
+        "lng": 1.469374
+      },
+      "parcName": "Park Playa Bara Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD012",
+      "order": 154,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.07646,
+        "lng": 1.109104
+      },
+      "parcName": "Cambrils Park",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD013",
+      "order": 155,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.081281,
+        "lng": 1.111015
+      },
+      "parcName": "Sanguli Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD027",
+      "order": 156,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 41.233406,
+        "lng": 1.781088
+      },
+      "parcName": "Camping El Garrofer",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CV011",
+      "order": 157,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 43.4903,
+        "lng": -3.536385
+      },
+      "parcName": "Playa Joyel Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "PG018",
+      "order": 158,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 38.72192,
+        "lng": -9.46584
+      },
+      "parcName": "Guincho Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CA022",
+      "order": 159,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.228178,
+        "lng": 15.16981
+      },
+      "parcName": "Zaton Holiday Resort",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CA011",
+      "order": 160,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.2967,
+        "lng": 13.59455
+      },
+      "parcName": "Camp Lanterna Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CA021",
+      "order": 161,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.459764,
+        "lng": 14.975835
+      },
+      "parcName": "Camping Village Simuni",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CA026",
+      "order": 162,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 45.369053,
+        "lng": 13.544327
+      },
+      "parcName": "Park Umag Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CA033",
+      "order": 163,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 44.897944,
+        "lng": 13.808139
+      },
+      "parcName": "Brioni Sunny Camping",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "HL031",
+      "order": 164,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 51.589618,
+        "lng": 3.720749
+      },
+      "parcName": "Roompot Beach Resort",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "HL012",
+      "order": 165,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 52.145871,
+        "lng": 4.387874
+      },
+      "parcName": "Duinrell Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "HL011",
+      "order": 166,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 52.200063,
+        "lng": 4.456536
+      },
+      "parcName": "Koningshof Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "HL013",
+      "order": 167,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 51.529358,
+        "lng": 5.122204
+      },
+      "parcName": "Beekse Bergen Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "HL032",
+      "order": 168,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 51.383011,
+        "lng": 5.976015
+      },
+      "parcName": "Camping De Schatberg",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "LU011",
+      "order": 169,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 49.7846,
+        "lng": 6.211
+      },
+      "parcName": "Birkelt Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "AU011",
+      "order": 170,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.2838,
+        "lng": 12.81694
+      },
+      "parcName": "Sportcamp Woferlgut Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "AU019",
+      "order": 171,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.180278,
+        "lng": 14.215278
+      },
+      "parcName": "Bella Austria Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "AU012",
+      "order": 172,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.237421,
+        "lng": 11.34171
+      },
+      "parcName": "Natterer See Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "SW011",
+      "order": 173,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.302766,
+        "lng": 7.637844
+      },
+      "parcName": "Bella Tola Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "SW012",
+      "order": 174,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.680147,
+        "lng": 7.816547
+      },
+      "parcName": "Manor Farm Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "SW013",
+      "order": 175,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 46.588656,
+        "lng": 7.90798
+      },
+      "parcName": "Jungfrau Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GE011",
+      "order": 176,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 47.585699,
+        "lng": 9.705963
+      },
+      "parcName": "Campingpark Gitzenweiler Hof Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GE013",
+      "order": 177,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 48.216023,
+        "lng": 7.788835
+      },
+      "parcName": "Campingplatz Herbolzheim Campsite",
+      "results": [],
+      "alternativeResults": []
+    },
+    {
+      "parc": "GE019",
+      "order": 178,
+      "pricehigh": 0,
+      "pricelow": 0,
+      "location": {
+        "lat": 52.9316,
+        "lng": 9.9655
+      },
+      "parcName": "Südsee-Camp Campsite",
+      "results": [],
+      "alternativeResults": []
+    }
+  ],
+  "alternativeResults": [],
+  "pricehigh": 0,
+  "pricelow": 0
+}
