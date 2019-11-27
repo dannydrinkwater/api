@@ -1,0 +1,760 @@
+{
+  "results": [],
+  "alternativeResults": [
+    {
+      "parc": "CB016",
+      "order": 1,
+      "pricehigh": 1645,
+      "pricelow": 1148,
+      "location": {
+        "lat": 41.832887,
+        "lng": 3.084691
+      },
+      "parcName": "Internacional de Calonge Campsite",
+      "results": [
+        {
+          "id": "CB016-1",
+          "order": 1,
+          "tags": "BD2,DK,AC,CLA",
+          "price": 1148,
+          "accommodationId": 1969,
+          "accommodationName": "2 bedroom Classic, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB016-2",
+          "order": 2,
+          "tags": "BD2,DK,AC,CLA",
+          "price": 1148,
+          "accommodationId": 1972,
+          "accommodationName": "2 bedroom Classic, air-con (sleeps 5)",
+          "lowStock": true
+        },
+        {
+          "id": "CB016-3",
+          "order": 3,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1218,
+          "accommodationId": 1985,
+          "accommodationName": "2 bedroom Comfort, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CB016-4",
+          "order": 4,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1645,
+          "accommodationId": 1993,
+          "accommodationName": "3 bedroom Azure Plus, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB016-5",
+          "order": 5,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1505,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB016-6",
+          "order": 6,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1400,
+          "accommodationId": 2012,
+          "accommodationName": "3 bedroom Comfort Vista, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CB016-7",
+          "order": 7,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1330,
+          "accommodationId": 2015,
+          "accommodationName": "3 bedroom Comfort, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB012",
+      "order": 2,
+      "pricehigh": 1626.45,
+      "pricelow": 1276.45,
+      "location": {
+        "lat": 42.051093,
+        "lng": 3.183117
+      },
+      "parcName": "Castell Montgri Campsite",
+      "results": [
+        {
+          "id": "CB012-1",
+          "order": 1,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1360.45,
+          "accommodationId": 1983,
+          "accommodationName": "2 bedroom Comfort Vista, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CB012-2",
+          "order": 2,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1276.45,
+          "accommodationId": 1985,
+          "accommodationName": "2 bedroom Comfort, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB012-3",
+          "order": 3,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1626.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB012-4",
+          "order": 4,
+          "tags": "BD3,DK,AC,CLA",
+          "price": 1444.45,
+          "accommodationId": 2003,
+          "accommodationName": "3 bedroom Classic XL, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB012-5",
+          "order": 5,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1388.45,
+          "accommodationId": 2015,
+          "accommodationName": "3 bedroom Comfort, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB012-6",
+          "order": 6,
+          "tags": "BD2,DK,AC,CLA",
+          "price": 1353.45,
+          "accommodationId": 2027,
+          "accommodationName": "2 bedroom Classic XL, air-con",
+          "lowStock": true
+        }
+      ],
+      "alternativeResults": [
+        {
+          "id": "CB012-7",
+          "order": 1,
+          "tags": "BD2,DK,AC,CLA",
+          "price": 1561.15,
+          "accommodationId": 1969,
+          "accommodationName": "2 bedroom Classic, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CB012-8",
+          "order": 2,
+          "tags": "BD2,DK,AC,CLA",
+          "price": 1388.8,
+          "accommodationId": 1969,
+          "accommodationName": "2 bedroom Classic, air-con",
+          "lowStock": true
+        }
+      ]
+    },
+    {
+      "parc": "CD015",
+      "order": 3,
+      "pricehigh": 1661.45,
+      "pricelow": 1206.45,
+      "location": {
+        "lat": 41.231961,
+        "lng": 1.691219
+      },
+      "parcName": "Vilanova Park Campsite",
+      "results": [
+        {
+          "id": "CD015-1",
+          "order": 1,
+          "tags": "BD2,DK,AC,CLA",
+          "price": 1206.45,
+          "accommodationId": 1973,
+          "accommodationName": "2 bedroom Classic, air-con (sleeps 6)",
+          "lowStock": false
+        },
+        {
+          "id": "CD015-2",
+          "order": 2,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1360.45,
+          "accommodationId": 1983,
+          "accommodationName": "2 bedroom Comfort Vista, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD015-3",
+          "order": 3,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1276.45,
+          "accommodationId": 1985,
+          "accommodationName": "2 bedroom Comfort, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD015-4",
+          "order": 4,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1661.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD015-5",
+          "order": 5,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1388.45,
+          "accommodationId": 2015,
+          "accommodationName": "3 bedroom Comfort, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CV011",
+      "order": 4,
+      "pricehigh": 1395.45,
+      "pricelow": 1395.45,
+      "location": {
+        "lat": 43.4903,
+        "lng": -3.536385
+      },
+      "parcName": "Playa Joyel Campsite",
+      "results": [
+        {
+          "id": "CV011-1",
+          "order": 1,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1395.45,
+          "accommodationId": 1983,
+          "accommodationName": "2 bedroom Comfort Vista, air-con",
+          "lowStock": true
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD027",
+      "order": 5,
+      "pricehigh": 1569.4,
+      "pricelow": 1569.4,
+      "location": {
+        "lat": 41.233406,
+        "lng": 1.781088
+      },
+      "parcName": "Camping El Garrofer",
+      "results": [
+        {
+          "id": "CD027-1",
+          "order": 1,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1569.4,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "priceWas": 1652,
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD012",
+      "order": 6,
+      "pricehigh": 2039.45,
+      "pricelow": 2039.45,
+      "location": {
+        "lat": 41.07646,
+        "lng": 1.109104
+      },
+      "parcName": "Cambrils Park",
+      "results": [
+        {
+          "id": "CD012-1",
+          "order": 1,
+          "tags": "CBL",
+          "price": 2039.45,
+          "accommodationId": 1836,
+          "accommodationName": "Cambrils Bungalow 6",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD011",
+      "order": 7,
+      "pricehigh": 2039.45,
+      "pricelow": 1416.45,
+      "location": {
+        "lat": 41.17313,
+        "lng": 1.469374
+      },
+      "parcName": "Park Playa Bara Campsite",
+      "results": [
+        {
+          "id": "CD011-1",
+          "order": 1,
+          "tags": "BD2,DK,AC,CLA",
+          "price": 1416.45,
+          "accommodationId": 1969,
+          "accommodationName": "2 bedroom Classic, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD011-2",
+          "order": 2,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1570.45,
+          "accommodationId": 1983,
+          "accommodationName": "2 bedroom Comfort Vista, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD011-3",
+          "order": 3,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1486.45,
+          "accommodationId": 1985,
+          "accommodationName": "2 bedroom Comfort, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD011-4",
+          "order": 4,
+          "tags": "BD3,DK,AC,ASP",
+          "price": 2039.45,
+          "accommodationId": 1989,
+          "accommodationName": "3 bedroom Aspect, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD011-5",
+          "order": 5,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1934.45,
+          "accommodationId": 1993,
+          "accommodationName": "3 bedroom Azure Plus, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CD011-6",
+          "order": 6,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1766.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": [
+        {
+          "id": "CD011-7",
+          "order": 1,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1593.45,
+          "accommodationId": 2015,
+          "accommodationName": "3 bedroom Comfort, air-con",
+          "lowStock": true
+        }
+      ]
+    },
+    {
+      "parc": "CD013",
+      "order": 8,
+      "pricehigh": 2284.45,
+      "pricelow": 2109.45,
+      "location": {
+        "lat": 41.081281,
+        "lng": 1.111015
+      },
+      "parcName": "Sanguli Campsite",
+      "results": [
+        {
+          "id": "CD013-1",
+          "order": 1,
+          "tags": "CBL",
+          "price": 2144.45,
+          "accommodationId": 1786,
+          "accommodationName": "Masai Lodge",
+          "lowStock": false
+        },
+        {
+          "id": "CD013-2",
+          "order": 2,
+          "tags": "BD2,DK,AC,AZU",
+          "price": 2109.45,
+          "accommodationId": 1958,
+          "accommodationName": "2 bedroom Azure, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD013-3",
+          "order": 3,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 2284.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB037",
+      "order": 9,
+      "pricehigh": 1521.45,
+      "pricelow": 1521.45,
+      "location": {
+        "lat": 41.707278,
+        "lng": 2.880729
+      },
+      "parcName": "Canyelles Campsite",
+      "results": [
+        {
+          "id": "CB037-1",
+          "order": 1,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1521.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB040",
+      "order": 10,
+      "pricehigh": 1591.45,
+      "pricelow": 1213.45,
+      "location": {
+        "lat": 42.187696,
+        "lng": 3.088889
+      },
+      "parcName": "Camping Riu",
+      "results": [
+        {
+          "id": "CB040-1",
+          "order": 1,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1591.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB040-2",
+          "order": 2,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1213.45,
+          "accommodationId": 2015,
+          "accommodationName": "3 bedroom Comfort, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB036",
+      "order": 11,
+      "pricehigh": 1757,
+      "pricelow": 1757,
+      "location": {
+        "lat": 41.981209,
+        "lng": 3.201346
+      },
+      "parcName": "Interpals Campsite",
+      "results": [
+        {
+          "id": "CB036-1",
+          "order": 1,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1757,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB020",
+      "order": 12,
+      "pricehigh": 1654.45,
+      "pricelow": 1360.45,
+      "location": {
+        "lat": 41.697358,
+        "lng": 2.821605
+      },
+      "parcName": "Camping Tucan Campsite",
+      "results": [
+        {
+          "id": "CB020-1",
+          "order": 1,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1360.45,
+          "accommodationId": 1983,
+          "accommodationName": "2 bedroom Comfort Vista, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CB020-2",
+          "order": 2,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1654.45,
+          "accommodationId": 1993,
+          "accommodationName": "3 bedroom Azure Plus, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CB020-3",
+          "order": 3,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1388.45,
+          "accommodationId": 2015,
+          "accommodationName": "3 bedroom Comfort, air-con",
+          "lowStock": true
+        }
+      ],
+      "alternativeResults": [
+        {
+          "id": "CB020-4",
+          "order": 1,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1735.8,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CB020-5",
+          "order": 2,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1519.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": true
+        }
+      ]
+    },
+    {
+      "parc": "CD018",
+      "order": 13,
+      "pricehigh": 1339.45,
+      "pricelow": 1227.45,
+      "location": {
+        "lat": 41.038181,
+        "lng": 0.974747
+      },
+      "parcName": "La Torre del Sol Campsite",
+      "results": [
+        {
+          "id": "CD018-1",
+          "order": 1,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1227.45,
+          "accommodationId": 1985,
+          "accommodationName": "2 bedroom Comfort, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD018-2",
+          "order": 2,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1339.45,
+          "accommodationId": 2015,
+          "accommodationName": "3 bedroom Comfort, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CD019",
+      "order": 14,
+      "pricehigh": 2144.45,
+      "pricelow": 1871.45,
+      "location": {
+        "lat": 41.033743,
+        "lng": 0.968792
+      },
+      "parcName": "Playa Montroig Camping Resort",
+      "results": [
+        {
+          "id": "CD019-1",
+          "order": 1,
+          "tags": "BD3,DK,AC,ASP",
+          "price": 2144.45,
+          "accommodationId": 1989,
+          "accommodationName": "3 bedroom Aspect, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CD019-2",
+          "order": 2,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1871.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB039",
+      "order": 15,
+      "pricehigh": 1724.45,
+      "pricelow": 1619.45,
+      "location": {
+        "lat": 41.617763,
+        "lng": 2.676798
+      },
+      "parcName": "Caballo de Mar Campsite",
+      "results": [
+        {
+          "id": "CB039-1",
+          "order": 1,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1724.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB039-2",
+          "order": 2,
+          "tags": "BD3,DK,AC,BA2,CMF",
+          "price": 1619.45,
+          "accommodationId": 2025,
+          "accommodationName": "3 bedroom Comfort XL, air-con",
+          "lowStock": true
+        }
+      ],
+      "alternativeResults": [
+        {
+          "id": "CB039-3",
+          "order": 1,
+          "tags": "BD3,DK,AC,CMF",
+          "price": 1875.15,
+          "accommodationId": 2015,
+          "accommodationName": "3 bedroom Comfort, air-con",
+          "lowStock": true
+        }
+      ]
+    },
+    {
+      "parc": "CB038",
+      "order": 16,
+      "pricehigh": 1757,
+      "pricelow": 1757,
+      "location": {
+        "lat": 41.662994,
+        "lng": 2.781019
+      },
+      "parcName": "La Masia Campsite",
+      "results": [
+        {
+          "id": "CB038-1",
+          "order": 1,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 1757,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    },
+    {
+      "parc": "CB013",
+      "order": 17,
+      "pricehigh": 770,
+      "pricelow": 770,
+      "location": {
+        "lat": 42.011,
+        "lng": 3.186134
+      },
+      "parcName": "El Delfin Verde Campsite",
+      "results": [
+        {
+          "id": "CB013-1",
+          "order": 1,
+          "tags": "TE",
+          "price": 770,
+          "accommodationId": 326,
+          "accommodationName": "Tent (sleeps 6)",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": [
+        {
+          "id": "CB013-2",
+          "order": 1,
+          "tags": "BD3,DK,AC,BA2,CMF",
+          "price": 1965,
+          "accommodationId": 2025,
+          "accommodationName": "3 bedroom Comfort XL, air-con",
+          "lowStock": true
+        },
+        {
+          "id": "CB013-3",
+          "order": 2,
+          "tags": "STE",
+          "price": 1225,
+          "accommodationId": 1524,
+          "accommodationName": "Safari Tent sleeps 5",
+          "lowStock": true
+        }
+      ]
+    },
+    {
+      "parc": "CB017",
+      "order": 18,
+      "pricehigh": 2116.45,
+      "pricelow": 1570.45,
+      "location": {
+        "lat": 41.8304,
+        "lng": 3.083865
+      },
+      "parcName": "Cala Gogo Campsite",
+      "results": [
+        {
+          "id": "CB017-1",
+          "order": 1,
+          "tags": "BD2,DK,AC,CMF",
+          "price": 1570.45,
+          "accommodationId": 1983,
+          "accommodationName": "2 bedroom Comfort Vista, air-con",
+          "lowStock": false
+        },
+        {
+          "id": "CB017-2",
+          "order": 2,
+          "tags": "BD3,DK,AC,AZU",
+          "price": 2116.45,
+          "accommodationId": 1995,
+          "accommodationName": "3 bedroom Azure, air-con",
+          "lowStock": false
+        }
+      ],
+      "alternativeResults": []
+    }
+  ],
+  "pricehigh": 2284.45,
+  "pricelow": 770
+}
